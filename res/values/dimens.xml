@@ -494,4 +494,8 @@
     <!-- Header Messages -->
     <dimen name="header_text_size_contextual">34sp</dimen>
     <dimen name="header_text_size_default">40sp</dimen>
+    
+    <dimen name="card_margin_start_aqua">20.0dip</dimen>
+    <dimen name="card_margin_end_aqua">20.0dip</dimen>
+    <dimen name="top_level_preference_summary_max_width">200.0dip</dimen>
 </resources>
